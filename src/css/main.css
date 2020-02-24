@@ -23,7 +23,7 @@
 }
 body {
     background-color: #101010;
-    font-family:Glacial Indifference; 
+    font-family:Glacial Indifference;
     -webkit-font-smoothing: antialiased;
     font-size: 17px;
     line-height: 1.7em;
@@ -100,7 +100,7 @@ p {
     margin-bottom: 20px;
     line-height: 1.7em;
     font-weight: 400;
-    font-family:Glacial Indifference; 
+    font-family:Glacial Indifference;
     -webkit-font-smoothing: antialiased;
     color: #fff;
 }
@@ -673,7 +673,7 @@ body #loader.preloader-bg .progress {background: #ececec; }
     line-height: 30px;
     font-weight: 400;
     color: #fff;
-    font-family:Glacial Indifference; 
+    font-family:Glacial Indifference;
 }
 
 .box-mobile-menu .main-menu .menu-item > a:hover {
@@ -733,7 +733,7 @@ color: #f21e4e;}
 
 /* ======= Homepage style ======= */
 .hero-img {
-    background-image: url("../img/hero-bg.jpg");
+    background-image: url("src/assets/img/hero-bg.jpg");
     background-attachment: fixed;
     background-repeat: no-repeat;
     background-position: center center;
@@ -747,14 +747,14 @@ color: #f21e4e;}
     line-height: 1em;
 }
 .rudy-hero-content p {
-    font-family:Glacial Indifference; 
+    font-family:Glacial Indifference;
     font-weight: 400;
     color: #fff;
     font-size: 20px;
     margin-bottom: 0px;
 }
 .banner-bg {
-    background-image: url(../img/banner.jpg);
+    background-image: url("src/assets/img/banner.jpg");
     background-attachment: fixed;
     background-repeat: no-repeat;
     background-position: center center;
@@ -1060,7 +1060,7 @@ color: #f21e4e;}
 }
 .rudy-testimonial .owl-item {
     padding: 0;
-} 
+}
 .rudy-testimonial .item .cont {
     padding: 30px 20px;
 }
@@ -1462,7 +1462,7 @@ ol.comment-list li .children li {
 
 /* ======= Button style ======= */
 .rudy-btn {
-    font-family:Glacial Indifference; 
+    font-family:Glacial Indifference;
     padding: 8px 20px;
     border: 2px solid #f21e4e !important;
     color: #fff;
@@ -1494,7 +1494,7 @@ ol.comment-list li .children li {
     width: 100%;
 }
 .rudy-btn2 {
-    font-family:Glacial Indifference; 
+    font-family:Glacial Indifference;
     padding: 8px 24px;
     border: 2px solid #f21e4e !important;
     background-color: transparent;
